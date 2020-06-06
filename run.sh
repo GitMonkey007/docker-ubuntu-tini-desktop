@@ -206,4 +206,4 @@ bash -c "docker run --rm -it \
   ${EXTRA} \
   ${RUNNER} \
   ${RUNNER_GROUPS} \
-  rubensa/ubuntu-tini-desktop"
+  rubensa/custom-ubuntu-tini-desktop"
